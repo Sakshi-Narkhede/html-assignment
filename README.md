@@ -8,6 +8,7 @@ A collection of beginner-level **HTML assignments** completed during chai-code c
 ## 📁 Table of Contents
 
 1. [question_01](question_01/index.html) - Basic HTML structure with heading and paragraph. 
+2. [question_02](question_02/index.html) - Headings, formatted text, line break and disclaimer.
 
 -----
 
