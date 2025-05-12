@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment Question 7</title>
+    <style>
+      .user_form {
+        width: 300px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #f2f2f2;
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <form class="user_form">
+      <label for="u_tel">Telephone Number: </label>
+      <input
+        type="text"
+        name="u_tel"
+        placeholder="Enter your number"
+        pattern="[0-9]+"
+        title="Please enter numbers only"
+        required
+      />
+      <br />
+      <label for="comment">Add your comment here:</label>
+      <textarea
+        name="comment"
+        rows="5"
+        cols="30"
+        placeholder="Comment..."
+      ></textarea>
+      <br />
+      <label for="pwd">Password:</label>
+      <input
+        type="password"
+        name="pwd"
+        pattern=".{8,}"
+        placeholder="Enter your password"
+        title="Password must be at least 8 characters long"
+        required
+      />
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
