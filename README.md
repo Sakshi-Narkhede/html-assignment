@@ -13,6 +13,10 @@ A collection of beginner-level **HTML assignments** completed during chai-code c
 4. [question_03](question_03/index.html) - Different types of lists in HTML
 5. [question_04](question_04/index.html) - Different tasks related to HTML links.
 6. [question_05](question_05/index.html) - Different tasks related to HTML images.
+7. [question_06](question_06/index.html) - Different tasks related to HTML tables.
+8. [question_07](question_07/index.html) - Different tasks related to HTML forms.
+    - Pattern [0-9]+ : Input must contain only digits and at least one number.
+    - Pattern .{8,} : Input must be at least 8 characters long.
 
 -----
 
