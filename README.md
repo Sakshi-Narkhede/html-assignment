@@ -17,6 +17,8 @@ A collection of beginner-level **HTML assignments** completed during chai-code c
 8. [question_07](question_07/index.html) - Different tasks related to HTML forms.
     - Pattern [0-9]+ : Input must contain only digits and at least one number.
     - Pattern .{8,} : Input must be at least 8 characters long.
+9. [question_08](question_08/index.html) - Different HTML semantic tags.
+   [question_08](question_08/blog_post.html) - Blog post layout using semantic tags
 
 -----
 
